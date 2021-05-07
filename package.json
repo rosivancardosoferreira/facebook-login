@@ -23,8 +23,8 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "tsc": "tsc",
-    "postinstall": "yarn run tsc"
+    "grunt": "grunt",
+    "postinstall": "grunt"
   },
   "eslintConfig": {
     "extends": [
